@@ -1,2 +1,0 @@
-# filterFunction
-Created with CodeSandbox
